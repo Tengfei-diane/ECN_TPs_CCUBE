@@ -1,2 +1,2 @@
 # ECN_TPs
-All the codes in TPs at ECN
+All the codes in CCUBE TPs at ECN
